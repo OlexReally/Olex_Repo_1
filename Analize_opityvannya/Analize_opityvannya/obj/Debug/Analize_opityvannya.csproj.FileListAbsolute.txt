@@ -1,0 +1,13 @@
+F:\VS programs\4 курс 2 семестр\Analize_opityvannya\Analize_opityvannya\bin\Debug\Analize_opityvannya.exe.config
+F:\VS programs\4 курс 2 семестр\Analize_opityvannya\Analize_opityvannya\bin\Debug\Analize_opityvannya.exe
+F:\VS programs\4 курс 2 семестр\Analize_opityvannya\Analize_opityvannya\bin\Debug\Analize_opityvannya.pdb
+F:\VS programs\4 курс 2 семестр\Analize_opityvannya\Analize_opityvannya\obj\Debug\Analize_opityvannya.csprojResolveAssemblyReference.cache
+F:\VS programs\4 курс 2 семестр\Analize_opityvannya\Analize_opityvannya\obj\Debug\Analize_opityvannya.Form1.resources
+F:\VS programs\4 курс 2 семестр\Analize_opityvannya\Analize_opityvannya\obj\Debug\Analize_opityvannya.Properties.Resources.resources
+F:\VS programs\4 курс 2 семестр\Analize_opityvannya\Analize_opityvannya\obj\Debug\Analize_opityvannya.csproj.GenerateResource.Cache
+F:\VS programs\4 курс 2 семестр\Analize_opityvannya\Analize_opityvannya\obj\Debug\Analize_opityvannya.exe
+F:\VS programs\4 курс 2 семестр\Analize_opityvannya\Analize_opityvannya\obj\Debug\Analize_opityvannya.pdb
+F:\VS programs\4 курс 2 семестр\Analize_opityvannya\Analize_opityvannya\bin\Debug\MySql.Data.dll
+F:\Навчання\4 курс\Бакалаврська\Диплом\C# project\Analize_opityvannya\Analize_opityvannya\bin\Debug\Analize_opityvannya.exe.config
+F:\Навчання\4 курс\Бакалаврська\Диплом\C# project\Analize_opityvannya\Analize_opityvannya\obj\Debug\Analize_opityvannya.exe
+F:\Навчання\4 курс\Бакалаврська\Диплом\C# project\Analize_opityvannya\Analize_opityvannya\obj\Debug\Analize_opityvannya.pdb
